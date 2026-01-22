@@ -4,7 +4,6 @@
 
 [![Language](https://img.shields.io/badge/Language-Python%203.9+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Submitted%20to%20JEI-orange.svg)]()
 
 ## 🧠 Abstract
 The **WNEURA Project** is a computational neuroscience simulation designed to investigate the **"Cognitive Gap Theory."** It models the interaction between logarithmically increasing academic pressure (Weber-Fechner Law) and the biological limits of the human Prefrontal Cortex (PFC).
